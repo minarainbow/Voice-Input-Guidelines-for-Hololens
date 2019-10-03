@@ -10,6 +10,7 @@
 Users often have a hard time knowing what voice commands are available and when. There are also issues with receiving feedback from the device on whether a command was heard or interpreted properly. The goal of our project is to develop guidelines for developers to follow so that their Hololens application integrates voice commands effectively and their target audience can use the commands with ease.
 
 Link to [User Personas](https://docs.google.com/document/d/19S1B5Kuxh-lI8tsHfoAEIIXfTWTcwt1xHbvo8nMF6qo/edit?usp=sharing)
+
 Meeting notes available upon request
 
 ## Ideas
