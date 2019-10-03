@@ -1,9 +1,9 @@
 <p align="left" width="100%">
-  <img style="width:30%;align:left" src="https://github.com/eth-ait/HCI-fall-2018-project-page/blob/master/img/logo-ait.png">             
+  <img style="width:30%;align:left" src="img/logo-ait.png">             
 </p>
 
-# [Project name], Group 3
-#### Student 1, Student 2, Student 3, Student 4, Student 5
+# MSR Voice Input, Group 3
+#### Kunaal Sikka, Mina Huh, Vu Nguyen, Nicolas Carmody, Jonas Bokstaller
 
 ## Project description and customer needs
     TODO
