@@ -1,17 +1,17 @@
 <p align="left" width="100%">
-  <img style="width:30%;align:left" src="https://github.com/eth-ait/HCI-fall-2018-project-page/blob/master/img/logo-ait.png">             
+  <img style="width:30%;align:left" src="img/logo-ait.png">             
 </p>
 
-# [Project name], Group 3
-#### Student 1, Student 2, Student 3, Student 4, Student 5
+# MSR Voice Input, Group 3
+#### Kunaal Sikka, Mina Huh, Vu Nguyen, Nicolas Carmody, Jonas Bokstaller
 
 ## Project description and customer needs
-    TODO
-Add a description of your project, based on your discussion with the stakeholder. Minimum answer the following questions: 
-- What is the problem the company/user faces?
-- What are the goals of the project?
 
-Include notes from your first meeting with the stakeholder and document your needfinding process (Week 2-3)
+Users often have a hard time knowing what voice commands are available and when. There are also issues with receiving feedback from the device on whether a command was heard or interpreted properly. The goal of our project is to develop guidelines for developers to follow so that their Hololens application integrates voice commands effectively and their target audience can use the commands with ease.
+
+Link to [User Personas](https://docs.google.com/document/d/19S1B5Kuxh-lI8tsHfoAEIIXfTWTcwt1xHbvo8nMF6qo/edit?usp=sharing)
+
+Meeting notes available upon request
 
 ## Ideas
     TODO
