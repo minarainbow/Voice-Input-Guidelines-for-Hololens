@@ -22,9 +22,12 @@ Upload the PPT presentation that you discussed with the stakeholder to the "deli
 Optional: in this part you can document ideation and prototyping process (e.g. describe personas, show affinity clusters, etc. ) (Weeks 3-6)
     
 ## Evaluation
-    Deliverables:
-    Study Report[/Deliverables/Study_Report.pdf]
-    User Study Presentation[/Deliverables/User_Study_presentation.pdf]
+Deliverables:
+
+[Study Report](/Deliverables/Study_Report.pdf)
+
+[User Study Presentation](/Deliverables/User_Study_presentation.pdf)
+
 Describe your approach for evaluating your low-fi prototypes, present your results and your conclusion. 
 
 Upload the document shared with the stakeholder to the "deliverables" folder and include the link here.
