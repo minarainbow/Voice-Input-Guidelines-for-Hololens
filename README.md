@@ -15,7 +15,7 @@ Meeting notes available upon request
 
 ## Ideas
 
-We started by creating an [affinity cluster](https://drive.google.com/open?id=1M2X_dKdpYZPmxkXC8SppKvdzdFhq0_IN) and openly sharing our ideas on how to improve the voice recognition experience on Hololens.
+We started by creating an [affinity cluster](https://drive.google.com/open?id=1M1NF_fIWtZ3Zx_IkFPaNNmv98yLZldGE) and openly sharing our ideas on how to improve the voice recognition experience on Hololens.
 
 After this process, we came up with a rough list of requirements based on our affinity cluster and the user personas:
 1. Teaching the user
