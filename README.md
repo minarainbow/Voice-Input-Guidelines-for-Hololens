@@ -14,12 +14,39 @@ Link to [User Personas](https://docs.google.com/document/d/19S1B5Kuxh-lI8tsHfoAE
 Meeting notes available upon request
 
 ## Ideas
-    TODO
-Start with the key requirements/needs of the users / the company
-Then list your initial ideas (min. 3) with a brief description.
-Upload the PPT presentation that you discussed with the stakeholder to the "deliverables" folder and include the link here. 
 
-Optional: in this part you can document ideation and prototyping process (e.g. describe personas, show affinity clusters, etc. ) (Weeks 3-6)
+We started by creating an [affinity cluster](https://drive.google.com/open?id=1M2X_dKdpYZPmxkXC8SppKvdzdFhq0_IN) and openly sharing our ideas on how to improve the voice recognition experience on Hololens.
+
+After this process, we came up with a rough list of requirements based on our affinity cluster and the user personas:
+1. Teaching the user
+    1. a tutorial
+    3. examples
+    4. help menu (easy to access)
+2. Commands
+    1. fluid understanding
+    6. intuitive and recallable
+    9. optimize commands that are frequently used
+3. Feedback
+    1. status - fail/disconnected/confirmation
+    11. specific feedback
+    12. suggestions 
+4. UX
+    1. same interface for all commands
+    18. should not interfere with users field of view too much
+
+Keeping in mind what we had learned in class about User Centered Design, we went out to optimize the Hololens experience so that users could more effectively engage with voice functions. We wanted to create a unified experience that would work across multiple scenarios. Our goal was to increase the utilization of voice commands in such a way that users could complete everday tasks more quickly and with ease. 
+
+An evaluation of the history of introducing new interaction devices (in particular, the mouse and GUI) led us to believe that a great way to get users more comfortable with voice input would be to have them play a game. In addition, we set out to create a way for users to learn the game's commands easily and effectively using a virtual assistant. In this way we would also lessen the learning curve for users unfamiliar with the voice commands available in the game. Thus we came up with the following goals:
+
+1. Portray the system as a character to make users feel comfortable engaging with it via voice
+1. Teach users application specific voice commands with a game
+1. Have the users complete a basic task (like send an email) and compare mouse usage with voice usage
+
+View our presentation introducing our User Study to our stakeholders [here](https://drive.google.com/file/d/1ktx7gp4W8LCk07orwoCCEVg4L9FhZpza/view?usp=sharing).
+
+After feedback from our stakeholder, we created our user study to test the effectiveness of a character that introduces application specific voice commands. Read more in our [Study Report](/Deliverables/Study_Report.pdf).
+
+Also, see our User Study Presentation which discusses some of our findings [here](https://docs.google.com/presentation/d/1REDcLO9AXraoLu25bvrJDuQPfqy_d8A31S-66P3FSSM/edit?usp=sharing).
     
 ## Evaluation
 Deliverables:
