@@ -51,25 +51,34 @@ In our user study, we want to find out how effective our solutions are. Specific
 Q1: What is the effect of using documentation vs being guided by a Digital Assistant on the percentage of voice commands?
 Q2: What is the effect of using documentation vs being guided by a Digital Assistant on task completion?
 
+
+To simulate the HoloLens environment, we use a classroom. All the HoloLens overlay (simulated with Windows) is projected to parts of the room (i.e. the wall). The participant can move freely within the room. The computer is operated by a person that watches the hand clicks of the participant (simulated with a laser pointer) and listens to the voice commands. The operator ignores invalid inputs. Another person simulates the digital assistant, which is activated by the participant with eye-contact or by the keyword “Hey Cortana”.
 <p align="center" width="10%">
   <img width="500px" src="img/experiment.png">  
   <br>Hololens Overlay Simulation
 </p>
+
+In task 1, the participant plays a simple game with voice commands only. Here, we measure the performance of the participant (Number of invalid commands, number of referrals to the documentation, time to complete). 
 <p align="center" width="100%">
   <img width="420" src="img/task1.png">  
   <br>Game Task
 </p>
 
+In task 2, the participant is tasked to send an email using the Windows Mail app. The participant may use voice commands or hand input. Here, we measure the performance (as in task 1), plus the number of gaze/hand inputs versus voice. 
 <p align="center" width="100%">
   <img width="500px" src="img/task2.png">  
   <br>E-mail Task
 </p>
 
-Deliverables:
+After the completion of both tasks, the participant fills in a questionnaire that records demographic information, and both graded and textual feedback on the various input and teaching methods.
+
+#### Deliverables:
 
 [Study Report](/Deliverables/Study_Report.pdf)
 
 [User Study Presentation](/Deliverables/User_Study_presentation.pdf)
+
+[Post-Experiment Questionnaire](https://docs.google.com/forms/d/11-0nStA7Ju8s_jPijFY3YNpyKCFENe0J3qi75lEZhOU/edit)
 
 Describe your approach for evaluating your low-fi prototypes, present your results and your conclusion. 
 
