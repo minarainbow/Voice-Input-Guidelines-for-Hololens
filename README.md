@@ -29,7 +29,7 @@ After this process, we came up with a rough list of requirements based on our af
 3. Feedback
     1. status - fail/disconnected/confirmation
     11. specific feedback
-    12. suggestions 
+    12. suggestions
 4. UX
     1. same interface for all commands
     18. should not interfere with users field of view too much
@@ -38,17 +38,19 @@ Keeping in mind what we had learned in class about User Centered Design, we went
 
 An evaluation of the history of introducing new interaction devices (in particular, the mouse and GUI) led us to believe that a great way to get users more comfortable with voice input would be to have them play a game. In addition, we set out to create a way for users to learn the game's commands easily and effectively using a virtual assistant. In this way we would also lessen the learning curve for users unfamiliar with the voice commands available in the game. Thus we came up with the following goals:
 
-1. Portray the system as a character to make users feel comfortable engaging with it via voice
+1. Portray the system as a digital assistant to make users feel comfortable engaging with it via voice
 1. Teach users application specific voice commands with a game
 1. Have the users complete a basic task (like send an email) and compare mouse usage with voice usage
 
-View our presentation introducing our User Study to our stakeholders [here](https://drive.google.com/file/d/1ktx7gp4W8LCk07orwoCCEVg4L9FhZpza/view?usp=sharing).
+View our presentation introducing our ideas to our stakeholders [here](https://drive.google.com/file/d/1ktx7gp4W8LCk07orwoCCEVg4L9FhZpza/view?usp=sharing).
 
-After feedback from our stakeholder, we created our user study to test the effectiveness of a character that introduces application specific voice commands. Read more in our [Study Report](/Deliverables/Study_Report.pdf).
-
-Also, see our User Study Presentation which discusses some of our findings [here](https://docs.google.com/presentation/d/1REDcLO9AXraoLu25bvrJDuQPfqy_d8A31S-66P3FSSM/edit?usp=sharing).
     
 ## Evaluation
+
+In our user study, we want to find out how effective our solutions are. Specifically, we have the following research questions :
+Q1: What is the effect of using documentation vs being guided by a Digital Assistant on the percentage of voice commands?
+Q2: What is the effect of using documentation vs being guided by a Digital Assistant on task completion?
+
 Deliverables:
 
 [Study Report](/Deliverables/Study_Report.pdf)
