@@ -51,6 +51,20 @@ In our user study, we want to find out how effective our solutions are. Specific
 Q1: What is the effect of using documentation vs being guided by a Digital Assistant on the percentage of voice commands?
 Q2: What is the effect of using documentation vs being guided by a Digital Assistant on task completion?
 
+<p align="center" width="10%">
+  <img width="500px" src="img/experiment.png">  
+  <br>Hololens Overlay Simulation
+</p>
+<p align="center" width="100%">
+  <img width="420" src="img/task1.png">  
+  <br>Game Task
+</p>
+
+<p align="center" width="100%">
+  <img width="500px" src="img/task2.png">  
+  <br>E-mail Task
+</p>
+
 Deliverables:
 
 [Study Report](/Deliverables/Study_Report.pdf)
