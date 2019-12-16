@@ -96,8 +96,6 @@ On Wednesday, November 27th we had the chance to discuss the study and main find
 
 
 ## Final solution
-    TODO
-Describe your final solution to the problem and the prototype you developed in more detail here.
-Upload your video to the "deliverables" folder and include the link here. 
+Presentation video: https://drive.google.com/file/d/1ChjRcP7B5skvvyCZyMsQ34FjSbp3X6NY/view?usp=sharing
 
 (Weeks 10-14)
