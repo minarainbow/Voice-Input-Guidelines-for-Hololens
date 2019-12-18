@@ -47,9 +47,9 @@ View our presentation introducing our ideas to our stakeholders [here](https://d
     
 ## Evaluation
 
-In our user study, we want to find out how effective our solutions are. Specifically, we have the following research questions :
-Q1: What is the effect of using documentation vs being guided by a Digital Assistant on the percentage of voice commands?
-Q2: What is the effect of using documentation vs being guided by a Digital Assistant on task completion?
+In our user study, we set out to determine the effectiveness of our solution. Specifically, we had the following research questions:
+Q1: What is the effect of using documentation vs being guided by a Digital Assistant on the percentage of voice commands used in a session?
+Q2: What is the effect of using documentation vs being guided by a Digital Assistant on task completion performance (# errors, # references to help)?
 
 
 To simulate the HoloLens environment, we use a classroom. All the HoloLens overlay (simulated with Windows) is projected to parts of the room (i.e. the wall). The participant can move freely within the room. The computer is operated by a person that watches the hand clicks of the participant (simulated with a laser pointer) and listens to the voice commands. The operator ignores invalid inputs. Another person simulates the digital assistant, which is activated by the participant with eye-contact or by the keyword “Hey Cortana”.
@@ -80,12 +80,6 @@ After the completion of both tasks, the participant fills in a questionnaire tha
 
 [Post-Experiment Questionnaire](https://docs.google.com/forms/d/11-0nStA7Ju8s_jPijFY3YNpyKCFENe0J3qi75lEZhOU/edit)
 
-Describe your approach for evaluating your low-fi prototypes, present your results and your conclusion. 
-
-Upload the document shared with the stakeholder to the "deliverables" folder and include the link here.
-
-Optional: in this part you can also document the prototyping process: show different iterations, as well as failed ideas (Weeks 6-10)
-
 #### Stakeholder Feedback:
 On Wednesday, November 27th we had the chance to discuss the study and main findings with Sophie from Microsoft. We hat a talk and how the prototype and the corresponding experiment should be altered based on our results. To further improve our study and the report we have to do the following things:
 - Add a more detailed description in the study report that first-time readers get an intuition on how the experiment was done.
@@ -99,5 +93,3 @@ On Wednesday, November 27th we had the chance to discuss the study and main find
 [Presentation video](https://drive.google.com/file/d/1ChjRcP7B5skvvyCZyMsQ34FjSbp3X6NY/view?usp=sharing)
 
 [Final solution information](https://drive.google.com/file/d/1LM5ciOskvCM4aB6aDr2UK5nM_jBG0m0V/view?usp=sharing)
-
-(Weeks 10-14)
