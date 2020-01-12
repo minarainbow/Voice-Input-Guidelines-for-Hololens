@@ -93,7 +93,7 @@ On Wednesday, November 27th we had the chance to discuss the study and main find
 
 ## Final solution
 
-#[prototype video](https://drive.google.com/open?id=19EmCCaWTRd8ljtICCJJSqCO1ZJd4U5Uy)
+[prototype video](https://drive.google.com/open?id=19EmCCaWTRd8ljtICCJJSqCO1ZJd4U5Uy)
 
 [Presentation video](https://drive.google.com/file/d/1ChjRcP7B5skvvyCZyMsQ34FjSbp3X6NY/view?usp=sharing)
 
