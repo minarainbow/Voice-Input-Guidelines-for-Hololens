@@ -46,6 +46,8 @@ In addition, we set out to create a way for users to learn the game's commands e
 1. Teach users application specific voice commands with a game
 1. Have the users complete a basic task (like send an email) and compare mouse usage with voice usage
 
+Note: One might wonder why a digital assistant that can understand natural language is necessary at all, as natural language processing could be built into the apps. The fact is, apps generally do not support natural language processing, but adding some support phrases to voice assistants like Cortana is more feasible. In addition, the HoloLens voice input system listens to keywords, not full sentences. For natural language, a full processing engine such as Cortana is required.
+
 View our presentation introducing our ideas to our stakeholders [here](https://drive.google.com/file/d/1ktx7gp4W8LCk07orwoCCEVg4L9FhZpza/view?usp=sharing).
 
     
