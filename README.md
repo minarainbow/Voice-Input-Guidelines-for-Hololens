@@ -87,7 +87,7 @@ After the completion of both tasks, the participant fills in a questionnaire tha
 [Post-Experiment Questionnaire](https://docs.google.com/forms/d/11-0nStA7Ju8s_jPijFY3YNpyKCFENe0J3qi75lEZhOU/edit)
 
 #### Stakeholder Feedback:
-On Wednesday, November 27th we had the chance to discuss the study and main findings with Sophie from Microsoft. We hat a talk and how the prototype and the corresponding experiment should be altered based on our results. To further improve our study and the report we have to do the following things:
+On Wednesday, November 27th we had the chance to discuss the study and main findings with Sophie from Microsoft. We had a talk and how the prototype and the corresponding experiment should be altered based on our results. To further improve our study and the report we have to do the following things:
 - Add a more detailed description in the study report that first-time readers get an intuition on how the experiment was done.
 - Implement some video snippets from the experiment.
 - To improve the experiment we have to get a better balance between the length of the documentation vs. the fairy because the instruction of the fairy takes longer than reading the documentation.
