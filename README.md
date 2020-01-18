@@ -98,7 +98,14 @@ On Wednesday, November 27th we had the chance to discuss the study and main find
 ## Final solution
 
 [Prototype video](https://drive.google.com/open?id=19EmCCaWTRd8ljtICCJJSqCO1ZJd4U5Uy)
+Since it was difficult to show our strategies with an actual Hololens, we made this video as the final prototype. 
 
 [Presentation video](https://drive.google.com/file/d/1ChjRcP7B5skvvyCZyMsQ34FjSbp3X6NY/view?usp=sharing)
+This is the video that we submitted as the presentation video
+
+[VUI Game Prototype video] ()
+We used Picovoice(https://picovoice.ai) to create and learn "wake words" that are used in the game prototype. Pygame was used to create GUI part of the game. After playing this game before completing any given task, users felt more comfortable using voice interactions. 
 
 [Final solution information](https://drive.google.com/file/d/1LM5ciOskvCM4aB6aDr2UK5nM_jBG0m0V/view?usp=sharing)
+
+
